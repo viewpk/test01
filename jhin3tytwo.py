@@ -1,6 +1,1 @@
-print("hello world")
-print("hanafi yaming")
-print("Thidarat Arthan")
-print("Tassawas Buathong")
-print("Suphatsorn chaiwan")
-print("Watayut Pankong")
+print("Hello World")
